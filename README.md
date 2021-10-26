@@ -2,6 +2,8 @@
 
 [https://itnext.io/modularize-xcode-projects-using-local-swift-packages-8fd844c19081](https://itnext.io/modularize-xcode-projects-using-local-swift-packages-8fd844c19081)
 
+[https://medium.com/developerinsider/create-a-library-using-swift-package-manager-stepwise-tutorial-181604ec8a7])(https://medium.com/developerinsider/create-a-library-using-swift-package-manager-stepwise-tutorial-181604ec8a7)
+
 # Init
 
 ```bash
